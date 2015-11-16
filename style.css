@@ -1,0 +1,57 @@
+body{
+  background-color: lightgray;
+}
+
+header{
+  padding: 30px;
+}
+
+.text{
+  background-color: white;
+  width: 66%;
+}
+
+nav{
+  /*background-color: red;*/
+  width: 33%;
+}
+
+footer{
+  /*background-color: grey;*/
+  padding: 2.5px;
+}
+
+a{
+padding-bottom: 20px;
+}
+
+
+
+/** {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+header, footer {
+  background-color: grey;
+  clear: both;
+  padding: 1em;
+}
+header {
+  font-size: large;
+}
+footer {
+  font-size: small;
+}
+
+section {
+  float: left;
+  padding-right: 20px;
+  width: 70%;
+}
+aside {
+  background-color: rgb(159, 159, 159);
+  float: left;
+  width: 30%;
+}*/
