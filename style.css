@@ -1,5 +1,6 @@
+
 body{
-  background-color: lightgray;
+  background-color: #a8a8a8;
 }
 
 header{
@@ -9,49 +10,27 @@ header{
 .text{
   background-color: white;
   width: 66%;
+  float: left;
 }
 
 nav{
-  /*background-color: red;*/
-  width: 33%;
+  background-color: #d3d3d3;
+  width: 34%;
+  float: left;
 }
 
 footer{
-  /*background-color: grey;*/
-  padding: 2.5px;
-}
-
-a{
-padding-bottom: 20px;
-}
-
-
-
-/** {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-header, footer {
   background-color: grey;
+  padding: 2.5px;
   clear: both;
-  padding: 1em;
-}
-header {
-  font-size: large;
-}
-footer {
-  font-size: small;
 }
 
-section {
-  float: left;
-  padding-right: 20px;
-  width: 70%;
+li{
+  padding-bottom: 10px;
+  list-style-type: none;
 }
-aside {
-  background-color: rgb(159, 159, 159);
-  float: left;
-  width: 30%;
-}*/
+
+ul{
+  margin: 0;
+  padding: 0;
+}
